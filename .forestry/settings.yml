@@ -5,12 +5,12 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: titans
+  path: content/titans
   label: titans
   create: all
   match: "**/*"
 - type: directory
-  path: olympians
+  path: content/olympians
   label: olympians
   create: all
   match: "**/*"
