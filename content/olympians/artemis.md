@@ -7,7 +7,7 @@ name = "Artemis"
 +++
 [**Artemis**](https://www.greekmythology.com/Olympians/Artemis/artemis.html "Artemis") is the Olympian goddess of the hunt, the [**moon**](https://www.greekmythology.com/Myths/Planets/Moon/moon.html "Moon"), and chastity; in time, she also became associated with childbirth and nature. No more than few days old, she helped her mother [**Leto**](https://www.greekmythology.com/Myths/The_Myths/Zeus's_Lovers/Leto/leto.html "Leto") give birth to her twin brother [**Apollo**](https://www.greekmythology.com/Olympians/Apollo/apollo.html "Apollo"). [**Artemis**](https://www.greekmythology.com/Olympians/Artemis/artemis.html "Artemis") was very protective of her and her priestesses’ innocence. Consequently, she wasn’t very nice when some of them weren’t so careful.
 
-![](https://www.greekmythology.com/images/mythology/artemis_11.jpg)
+![](https://www.greekmythology.com/images/mythology/artemis_11.jpg "Artemis statue")
 
 ## **Artemis’ Role**
 
