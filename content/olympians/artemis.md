@@ -1,6 +1,5 @@
 +++
 category = []
-draft = true
 entity-type = "Olympians"
 main-image = ""
 name = "Artemis"
