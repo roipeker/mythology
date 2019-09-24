@@ -4,6 +4,20 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: titans
+  label: titans
+  create: all
+  match: "**/*"
+- type: directory
+  path: olympians
+  label: olympians
+  create: all
+  match: "**/*"
+- type: document
+  path: home
+  label: home
+  match: "**/*"
 - type: heading
   label: test
 upload_dir: static/uploads
