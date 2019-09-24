@@ -1,7 +1,7 @@
 +++
 author = "Rodrigo"
 date = "2019-08-03T10:00:00+03:00"
-hero = ""
+hero = "https://app.forestry.io/sites/za-k9m9onpwk6a/body-media//v1569357582/mitologia/asteria_image_143_tkg1nj.jpg"
 title = "Asteria"
 type = "olympic"
 
