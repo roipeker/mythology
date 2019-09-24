@@ -38,6 +38,6 @@ fields:
   label: category
   description: defines a category for the entity
 pages:
-- content/olympians/artemis.md
 - content/olympians/aris.md
+- content/olympians/artemis.md
 - content/titans/astresus.md

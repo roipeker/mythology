@@ -1,6 +1,5 @@
 +++
 category = ["god"]
-draft = true
 entity-type = "Olympians"
 main-image = "/v1569335481/mitologia/ares_image_6.webp"
 name = "Ares"
