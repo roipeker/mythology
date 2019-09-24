@@ -1,4 +1,39 @@
 ---
 label: entities
 hide_body: false
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: true
+  label: name
+  description: God entity name
+- name: entity-type
+  type: select
+  default: Olympians
+  config:
+    required: true
+    options:
+    - Olympians
+    - Titans
+    - Other Gods
+    - Myths
+    - Plays
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: entity-type
+  description: God or any category where it belongs
+- name: main-image
+  type: file
+  config:
+    maxSize: '5'
+  label: main-image
+  description: Main image for the blog post
+- name: category
+  type: tag_list
+  default: []
+  label: category
+  description: defines a category for the entity
