@@ -27,7 +27,7 @@ fields:
   label: tags
 - name: series
   type: select
-  default: Other Gods
+  default: Olympians
   config:
     required: true
     options:
@@ -45,10 +45,13 @@ fields:
   description: to which section it belongs.
 - name: tag
   type: tag_list
-  default:
-  - myths
+  default: []
   label: Tags
   description: Tags for this article.
+  showOnly:
+    field: series
+    value: Olympians
+  hidden: true
 pages:
 - content/post/olympians/ares.md
 - content/post/olympians/apollo.md
