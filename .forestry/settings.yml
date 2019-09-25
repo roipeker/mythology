@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Mitos
+- type: heading
+  label: Deidades
 - type: directory
   path: post/other_gods
   label: Other Gods
