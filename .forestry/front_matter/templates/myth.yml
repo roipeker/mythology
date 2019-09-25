@@ -49,3 +49,5 @@ fields:
   - myths
   label: Tags
   description: Tags for this article.
+pages:
+- content/post/olympians/aphrodite.md
