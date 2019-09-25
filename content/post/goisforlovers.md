@@ -1,15 +1,11 @@
 +++
+date = "2014-04-02T00:00:00.000+00:00"
+draft = true
+tags = ["go", "golang", "templates", "themes"]
 title = "(Hu)go Template Primer"
-tags = [
-    "go",
-    "golang",
-    "templates",
-    "themes",
-]
-date = 2014-04-02
 toc = true
-+++
 
++++
 Hugo uses the excellent [Go][] [html/template][gohtmltemplate] library for
 its template engine. It is an extremely lightweight engine that provides a very
 small amount of logic. In our experience that it is just the right amount of
