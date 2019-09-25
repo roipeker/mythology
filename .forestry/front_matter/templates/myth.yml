@@ -53,6 +53,7 @@ fields:
     value: Olympians
   hidden: true
 pages:
+- content/post/titans/eurybia.md
 - content/post/titans/epimetheus.md
 - content/post/titans/eos.md
 - content/post/titans/dione.md
