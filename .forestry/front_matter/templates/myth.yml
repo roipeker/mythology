@@ -5,12 +5,20 @@ fields:
 - type: text
   name: author
   label: author
+  hidden: true
+  default: Roi Peker
 - type: datetime
   name: date
   label: date
+  config:
+    display_utc: true
+  default: now
 - type: text
   name: title
   label: title
+  description: Name of the post
+  config:
+    required: true
 - type: text
   name: series
   label: series
