@@ -53,6 +53,7 @@ fields:
     value: Olympians
   hidden: true
 pages:
+- content/post/titans/ophion.md
 - content/post/titans/oceanus.md
 - content/post/titans/mnemosyne.md
 - content/post/titans/metis.md
