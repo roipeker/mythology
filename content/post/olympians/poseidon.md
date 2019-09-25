@@ -8,8 +8,9 @@ tags = []
 title = "Poseidon"
 
 +++
-###   
-Poseidon :: Greek God of the Sea
+### 
+
+### Greek God of the Sea
 
 ![Poseidon](https://www.greekmythology.com/images/mythology/poseidon_2.jpg)
 
