@@ -53,6 +53,7 @@ fields:
     value: Olympians
   hidden: true
 pages:
+- content/post/titans/coeus.md
 - content/post/titans/clymene.md
 - content/post/titans/atlas.md
 - content/post/titans/astraeus.md

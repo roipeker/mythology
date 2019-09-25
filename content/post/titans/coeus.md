@@ -1,0 +1,21 @@
++++
+author = "Roi Peker"
+date = "2019-09-25T22:16:11+03:00"
+myths = ""
+series = "Titans"
+tag = []
+tags = []
+title = "Coeus"
+
++++
+![Coeus](https://www.greekmythology.com/images/mythology/coeus_23.jpg)
+
+[**Coeus**](https://www.greekmythology.com/Titans/Coeus/coeus.html "Coeus") was one of the [**Titans**](https://www.greekmythology.com/Titans/titans.html "Titans"), son of [**Uranus**](https://www.greekmythology.com/Other_Gods/Uranus/uranus.html "Uranus") and [**Gaia**](https://www.greekmythology.com/Other_Gods/Gaea/gaea.html "Gaea"). His name means questioning, while the respective [**Roman**](https://www.greekmythology.com/Myths/Roman/roman.html "Roman") deity was Polus, the celestial axis around which the heavens revolve. Based on his Greek name, it has been suggested that [**Coeus**](https://www.greekmythology.com/Titans/Coeus/coeus.html "Coeus") may have also been the Titan of inquisitive minds and intellect.
+
+[**Coeus**](https://www.greekmythology.com/Titans/Coeus/coeus.html "Coeus") also represented one of the four pillars that hold the heavens and the earth apart. He was the pillar of the north, while the other three pillars were personified by his brothers [**Hyperion**](https://www.greekmythology.com/Titans/Hyperion/hyperion.html "Hyperion"), [**Iapetus**](https://www.greekmythology.com/Titans/Iapetus/iapetus.html "Iapetus") and [**Crius**](https://www.greekmythology.com/Titans/Crius/crius.html "Crius"). The four brothers played an important role in dethroning their father, [**Uranus**](https://www.greekmythology.com/Other_Gods/Uranus/uranus.html "Uranus"); as they were located in the four corners of the earth, they held [**Uranus**](https://www.greekmythology.com/Other_Gods/Uranus/uranus.html "Uranus") in place, while their brother [**Cronus**](https://www.greekmythology.com/Titans/Cronus/cronus.html "Cronus") castrated him with the diamond sickle that their mother [**Gaea**](https://www.greekmythology.com/Other_Gods/Gaea/gaea.html "Gaea") had given him.
+
+Although [**Coeus**](https://www.greekmythology.com/Titans/Coeus/coeus.html "Coeus") does not have an active role in Ancient Greek religion, he was important through his children, [**Leto**](https://www.greekmythology.com/Myths/The_Myths/Zeus's_Lovers/Leto/leto.html "Leto") and [**Asteria**](https://www.greekmythology.com/Titans/Asteria/asteria.html "Asteria"), whom he had with his wife and sister, [**Phoebe**](https://www.greekmythology.com/Titans/Phoebe/phoebe.html "Phoebe"). [**Leto**](https://www.greekmythology.com/Myths/The_Myths/Zeus's_Lovers/Leto/leto.html "Leto") was one of [**Zeus**](https://www.greekmythology.com/Olympians/Zeus/zeus.html "Zeus")' lovers and gave birth to the twin [**Olympians**](https://www.greekmythology.com/Olympians/olympians.html "Olympians"), [**Artemis**](https://www.greekmythology.com/Olympians/Artemis/artemis.html "Artemis") and [**Apollo**](https://www.greekmythology.com/Olympians/Apollo/apollo.html "Apollo").
+
+During the [**Titanomachy**](https://www.greekmythology.com/Myths/The_Myths/Titanomachy/titanomachy.html "Titanomachy"), [**Coeus**](https://www.greekmythology.com/Titans/Coeus/coeus.html "Coeus") tried to stop [**Zeus**](https://www.greekmythology.com/Olympians/Zeus/zeus.html "Zeus") and the other [**Olympians**](https://www.greekmythology.com/Olympians/olympians.html "Olympians"); failing, he and the rest of the [**Titans**](https://www.greekmythology.com/Titans/titans.html "Titans") were banished to the Underworld. Trying to escape, [**Coeus**](https://www.greekmythology.com/Titans/Coeus/coeus.html "Coeus") broke his chains but was forced to stay by [**Cerberus**](https://www.greekmythology.com/Myths/Creatures/Cerberus/cerberus.html "Cerberus"), the guardian of [**the underworld**](https://www.greekmythology.com/Myths/Places/The_Underworld/the_underworld.html "The Underworld").
+
+See Also: [**Titans**](https://www.greekmythology.com/Titans/titans.html "Titans"), [**Uranus**](https://www.greekmythology.com/Other_Gods/Uranus/uranus.html "Uranus"), [**Gaia**](https://www.greekmythology.com/Other_Gods/Gaea/gaea.html "Gaea"), [**Leto**](https://www.greekmythology.com/Myths/The_Myths/Zeus's_Lovers/Leto/leto.html "Leto"), [**Phoebe**](https://www.greekmythology.com/Titans/Phoebe/phoebe.html "Phoebe")
