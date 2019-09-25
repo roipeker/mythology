@@ -53,6 +53,7 @@ fields:
     value: Olympians
   hidden: true
 pages:
+- content/post/other_gods/aura.md
 - content/post/other_gods/asclepius.md
 - content/post/other_gods/apate.md
 - content/post/other_gods/anemoi.md
