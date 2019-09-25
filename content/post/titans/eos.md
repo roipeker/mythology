@@ -1,0 +1,17 @@
++++
+author = "Roi Peker"
+date = "2019-09-25T22:17:32+03:00"
+myths = ""
+series = "Titans"
+tag = []
+tags = []
+title = "Eos"
+
++++
+![Eos](https://www.greekmythology.com/images/mythology/eos_147.jpg)
+
+[**Eos**](https://www.greekmythology.com/Titans/Eos/eos.html "Eos") was a Titan goddess in Greek mythology, daughter of the [**Titans**](https://www.greekmythology.com/Titans/titans.html "Titans") [**Hyperion**](https://www.greekmythology.com/Titans/Hyperion/hyperion.html "Hyperion") and [**Theia**](https://www.greekmythology.com/Titans/Thea/thea.html "Thea"). She was the goddess of the dawn and had two siblings; [**Helios**](https://www.greekmythology.com/Other_Gods/Helios/helios.html "Helios"), god of the [**sun**](https://www.greekmythology.com/Myths/Planets/Sun/sun.html "Sun"); and [**Selene**](https://www.greekmythology.com/Titans/Selene/selene.html "Selene"), goddess of the [**moon**](https://www.greekmythology.com/Myths/Planets/Moon/moon.html "Moon"). She was married to [**Astraeus**](https://www.greekmythology.com/Titans/Astraeus/astraeus.html "Astraeus"), god of the dusk and together, they had numerous children that represented everything that occurred during the union of the dusk and the dawn, i.e. the twilight. Among her children were the four [**Anemoi**](https://www.greekmythology.com/Other_Gods/Anemoi/anemoi.html "Anemoi") (winds), as well as [**Eosphorus**](https://www.greekmythology.com/Other_Gods/Minor_Gods/Phosphorus/phosphorus.html "Phosphorus") (the Morning Star) and the Astra Planeta (wandering stars or [**planets**](https://www.greekmythology.com/Myths/Planets/planets.html "Planets")). She was described as having rosy fingers, a light pink gown woven with flowers, wearing a tiara and having large white-feathered wings.
+
+According to another source, she was the consort of god [**Ares**](https://www.greekmythology.com/Olympians/Aris/aris.html "Ares"), causing the jealousy of [**Aphrodite**](https://www.greekmythology.com/Olympians/Aphrodite/aphrodite.html "Aphrodite"), who cursed her with insatiable sexual urge. As a result, [**Eos**](https://www.greekmythology.com/Titans/Eos/eos.html "Eos") abducted various young men, including [**Cephalus**](https://www.greekmythology.com/Myths/Mortals/Cephalus/cephalus.html "Cephalus"), [**Tithonus**](https://www.greekmythology.com/Myths/Mortals/Tithonus/tithonus.html "Tithonus") and [**Orion**](https://www.greekmythology.com/Myths/Mortals/Orion/orion.html "Orion"). She had two sons with [**Tithonus**](https://www.greekmythology.com/Myths/Mortals/Tithonus/tithonus.html "Tithonus"), [**Memnon**](https://www.greekmythology.com/Myths/Mortals/Memnon/memnon.html "Memnon") and Emathion. [**Memnon**](https://www.greekmythology.com/Myths/Mortals/Memnon/memnon.html "Memnon") fought on the side of the Trojan in the [**Trojan War**](https://www.greekmythology.com/Myths/The_Myths/Trojan_War/trojan_war.html "Trojan War"), where he died.
+
+See Also: [**Hyperion**](https://www.greekmythology.com/Titans/Hyperion/hyperion.html "Hyperion"), [**Theia**](https://www.greekmythology.com/Titans/Thea/thea.html "Thea"), [**Helios**](https://www.greekmythology.com/Other_Gods/Helios/helios.html "Helios"), [**Selene**](https://www.greekmythology.com/Titans/Selene/selene.html "Selene"), [**Astraeus**](https://www.greekmythology.com/Titans/Astraeus/astraeus.html "Astraeus")
