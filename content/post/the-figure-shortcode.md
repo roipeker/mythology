@@ -1,12 +1,11 @@
 ---
-title: 'The "figure" Shortcode'
-date: "2018-12-24T12:29:41+08:00"
-draft: false
+title: The "figure" Shortcode
+date: 2018-12-24T12:29:41+08:00
 tags:
-  - demo
-  - image
----
+- demo
+- image
 
+---
 Hugo has `figure` shortcode built in, so you can easily add figcaptions or hyperlink rel attributes to images. Documentations can be found here:
 
 https://gohugo.io/content-management/shortcodes/#figure
