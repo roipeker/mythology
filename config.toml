@@ -21,3 +21,8 @@ url = "about/"
 category = "myths"
 series = "series"
 tag = "tags"
+
+[outputs]
+  home = ["json","html"]
+  page = ["html"]
+  section = ["html"]
