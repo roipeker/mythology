@@ -53,6 +53,7 @@ fields:
     value: Olympians
   hidden: true
 pages:
+- content/post/titans/metis.md
 - content/post/titans/menoetius.md
 - content/post/titans/lelantos.md
 - content/post/titans/iapetus.md
