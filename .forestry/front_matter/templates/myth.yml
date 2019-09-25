@@ -27,15 +27,15 @@ fields:
   label: tags
 - name: series
   type: select
-  default: Olympians
+  default: Titans
   config:
     required: true
     options:
     - Olympians
     - Other Gods
-    - TItans
     - Myths
     - Plays
+    - Titans
     source:
       type: simple
       section: 
