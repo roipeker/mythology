@@ -1,0 +1,19 @@
++++
+author = "Roi Peker"
+date = "2019-09-25T22:22:08+03:00"
+myths = ""
+series = "Titans"
+tag = []
+tags = []
+title = "Rhea"
+
++++
+![Rhea](https://www.greekmythology.com/images/mythology/rhea_image_16.jpg)
+
+[**Rhea**](https://www.greekmythology.com/Titans/Rhea/rhea.html "Rhea") was one of the [**Titans**](https://www.greekmythology.com/Titans/titans.html "Titans"), daughter of [**Uranus**](https://www.greekmythology.com/Other_Gods/Uranus/uranus.html "Uranus") and [**Gaea**](https://www.greekmythology.com/Other_Gods/Gaea/gaea.html "Gaea"). She was the sister and wife of [**Cronus**](https://www.greekmythology.com/Titans/Cronus/cronus.html "Cronus"), also a Titan. She was responsible for the way things flow in the kingdom of [**Cronus**](https://www.greekmythology.com/Titans/Cronus/cronus.html "Cronus") (her name means 'that which flows').
+
+[**Rhea**](https://www.greekmythology.com/Titans/Rhea/rhea.html "Rhea") and [**Cronus**](https://www.greekmythology.com/Titans/Cronus/cronus.html "Cronus") had six children; [**Hestia**](https://www.greekmythology.com/Olympians/Hestia/hestia.html "Hestia"), [**Hades**](https://www.greekmythology.com/Olympians/Hades/hades.html "Hades"), [**Demeter**](https://www.greekmythology.com/Other_Gods/Demeter/demeter.html "Demeter"), [**Poseidon**](https://www.greekmythology.com/Olympians/Poseidon/poseidon.html "Poseidon"), [**Hera**](https://www.greekmythology.com/Olympians/Hera/hera.html "Hera") and [**Zeus**](https://www.greekmythology.com/Olympians/Zeus/zeus.html "Zeus"). [**Cronus**](https://www.greekmythology.com/Titans/Cronus/cronus.html "Cronus"), afraid that he would be overthrown by his children just like he had done with his father, decided to swallow all of them. However, he was tricked by [**Rhea**](https://www.greekmythology.com/Titans/Rhea/rhea.html "Rhea"), who managed to save [**Zeus**](https://www.greekmythology.com/Olympians/Zeus/zeus.html "Zeus") from his father. When [**Zeus**](https://www.greekmythology.com/Olympians/Zeus/zeus.html "Zeus") grew up, he forced his father to disgorge his siblings and eventually overthrew him.
+
+Although [**Rhea**](https://www.greekmythology.com/Titans/Rhea/rhea.html "Rhea") was considered the "mother of gods", similarly to [**Gaea**](https://www.greekmythology.com/Other_Gods/Gaea/gaea.html "Gaea") and Cybele, she did not have a strong cult and many followers. She had a temple in [**Crete**](https://www.greekmythology.com/Myths/Places/Crete/crete.html "Crete"), the place in which she hid [**Zeus**](https://www.greekmythology.com/Olympians/Zeus/zeus.html "Zeus") to save from his father. In art, she started appearing in the fourth century BC; however, she was often depicted with characteristics similar to those used for Cybele, thus making the two goddesses indistinguishable. [**Rhea**](https://www.greekmythology.com/Titans/Rhea/rhea.html "Rhea") was often symbolised as a pair of lions that pulled a celestial chariot. This symbol was often placed on city gates, the best known example being that at the city of Mycenae, where two stone lions guarded the gates.
+
+See Also: [**Titans**](https://www.greekmythology.com/Titans/titans.html "Titans"), [**Uranus**](https://www.greekmythology.com/Other_Gods/Uranus/uranus.html "Uranus"), [**Gaea**](https://www.greekmythology.com/Other_Gods/Gaea/gaea.html "Gaea"), [**Cronus**](https://www.greekmythology.com/Titans/Cronus/cronus.html "Cronus"), [**Zeus**](https://www.greekmythology.com/Olympians/Zeus/zeus.html "Zeus"), [**Hestia**](https://www.greekmythology.com/Olympians/Hestia/hestia.html "Hestia"), [**Hades**](https://www.greekmythology.com/Olympians/Hades/hades.html "Hades"), [**Demeter**](https://www.greekmythology.com/Other_Gods/Demeter/demeter.html "Demeter"), [**Poseidon**](https://www.greekmythology.com/Olympians/Poseidon/poseidon.html "Poseidon"), [**Hera**](https://www.greekmythology.com/Olympians/Hera/hera.html "Hera")

@@ -53,6 +53,7 @@ fields:
     value: Olympians
   hidden: true
 pages:
+- content/post/titans/rhea.md
 - content/post/titans/prometheus.md
 - content/post/titans/phoebe.md
 - content/post/titans/perses.md
