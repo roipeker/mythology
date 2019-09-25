@@ -20,11 +20,32 @@ fields:
   config:
     required: true
 - type: text
-  name: series
-  label: series
-- type: text
   name: myths
   label: myths
 - type: list
   name: tags
   label: tags
+- name: series
+  type: select
+  default: Other Gods
+  config:
+    required: true
+    options:
+    - Olympians
+    - Other Gods
+    - TItans
+    - Myths
+    - Plays
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Series
+  description: to which section it belongs.
+- name: tag
+  type: tag_list
+  default:
+  - myths
+  label: Tags
+  description: Tags for this article.
