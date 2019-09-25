@@ -5,6 +5,27 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: post/other_gods
+  label: Other Gods
+  create: all
+  match: "**/*"
+  templates:
+  - myth
+- type: directory
+  path: post/titans
+  label: Titans
+  create: all
+  match: "**/*"
+  templates:
+  - myth
+- type: directory
+  path: post/olympians
+  label: Olympians
+  create: all
+  match: "**/*"
+  templates:
+  - myth
+- type: directory
   path: content
   label: Pages
   create: all
