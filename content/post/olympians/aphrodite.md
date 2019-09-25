@@ -2,7 +2,7 @@
 author = "Roi Peker"
 date = "2019-09-25T21:54:49+03:00"
 myths = ""
-series = "Other Gods"
+series = "Olympians"
 tag = ["myths"]
 tags = ["goddes"]
 title = "Aphrodite"
