@@ -1,0 +1,17 @@
++++
+author = "Roi Peker"
+date = "2019-09-25T22:15:55+03:00"
+myths = ""
+series = "Titans"
+tag = []
+tags = []
+title = "Clymene"
+
++++
+![Clymene](https://www.greekmythology.com/images/mythology/clymene_150.jpg)
+
+[**Clymene**](https://www.greekmythology.com/Titans/Clymene/clymene.html "Clymene") was a Titan goddess in Greek mythology, daughter of the [**Titans**](https://www.greekmythology.com/Titans/titans.html "Titans") [**Oceanus**](https://www.greekmythology.com/Titans/Oceanus/oceanus.html "Oceanus") and [**Tethys**](https://www.greekmythology.com/Titans/Tethys/tethys.html "Tethys"), thus making her an Oceanid. She was the goddess of renown, fame, and infamy. She was married to the Titan [**Iapetus**](https://www.greekmythology.com/Titans/Iapetus/iapetus.html "Iapetus"), and they had four sons, [**Atlas**](https://www.greekmythology.com/Titans/Atlas/atlas.html "Atlas"), [**Epimetheus**](https://www.greekmythology.com/Titans/Epimetheus/epimetheus.html "Epimetheus"), [**Prometheus**](https://www.greekmythology.com/Titans/Prometheus/prometheus.html "Prometheus") and [**Menoetius**](https://www.greekmythology.com/Titans/Menoetius/menoetius.html "Menoetius"). She was also a consort of [**Helios**](https://www.greekmythology.com/Other_Gods/Helios/helios.html "Helios"), with whom she had a son, Phaeton, and the [**Heliades**](https://www.greekmythology.com/Other_Gods/Minor_Gods/Heliades/heliades.html "Heliades").
+
+There were many other [**figures**](https://www.greekmythology.com/Myths/Figures/figures.html "Figures") with the same name in Greek mythology. One [**Clymene**](https://www.greekmythology.com/Titans/Clymene/clymene.html "Clymene") was a servant of the famous [**Helen of Troy**](https://www.greekmythology.com/Myths/Mortals/Helen/helen.html "Helen of Troy"), daughter of Hippalces and [**Aethra**](https://www.greekmythology.com/Myths/Figures/Aethra/aethra.html "Aethra") and half-sister of [**Theseus**](https://www.greekmythology.com/Myths/Heroes/Theseus/theseus.html "Theseus"). Another [**Clymene**](https://www.greekmythology.com/Titans/Clymene/clymene.html "Clymene") was the daughter of [**Catreus**](https://www.greekmythology.com/Myths/Mortals/Catreus/catreus.html "Catreus"), and along with her sister [**Aerope**](https://www.greekmythology.com/Myths/Mortals/Aerope/aerope.html "Aerope"), she was sold away out of her father's fear that he would be killed by his children. This [**Clymene**](https://www.greekmythology.com/Titans/Clymene/clymene.html "Clymene") was later married to Nauplius, with whom she had three sons, Palameded, Oeax and Nausimedon.
+
+See Also: [**Oceanus**](https://www.greekmythology.com/Titans/Oceanus/oceanus.html "Oceanus"), [**Tethys**](https://www.greekmythology.com/Titans/Tethys/tethys.html "Tethys"), [**Iapetus**](https://www.greekmythology.com/Titans/Iapetus/iapetus.html "Iapetus"), [**Atlas**](https://www.greekmythology.com/Titans/Atlas/atlas.html "Atlas"), [**Epimetheus**](https://www.greekmythology.com/Titans/Epimetheus/epimetheus.html "Epimetheus"), [**Prometheus**](https://www.greekmythology.com/Titans/Prometheus/prometheus.html "Prometheus"), [**Menoetius**](https://www.greekmythology.com/Titans/Menoetius/menoetius.html "Menoetius"), [**Helios**](https://www.greekmythology.com/Other_Gods/Helios/helios.html "Helios")
