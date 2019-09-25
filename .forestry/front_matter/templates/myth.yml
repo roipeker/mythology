@@ -53,6 +53,7 @@ fields:
     value: Olympians
   hidden: true
 pages:
+- content/post/olympians/zeus.md
 - content/post/other_gods/bia.md
 - content/post/other_gods/aura.md
 - content/post/other_gods/asclepius.md
@@ -92,7 +93,6 @@ pages:
 - content/post/titans/astraeus.md
 - content/post/titans/asteria.md
 - content/post/olympians/poseidon.md
-- content/post/olympians/zeus.md
 - content/post/olympians/hestia.md
 - content/post/olympians/hermes.md
 - content/post/olympians/hera.md
