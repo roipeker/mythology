@@ -6,6 +6,13 @@ webhook_url:
 sections:
 - type: heading
   label: Mitos
+- type: directory
+  path: content/post/myths
+  label: Myths
+  create: all
+  match: "**/*"
+  templates:
+  - myth
 - type: heading
   label: Deidades
 - type: directory
