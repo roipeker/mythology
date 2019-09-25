@@ -50,5 +50,6 @@ fields:
   label: Tags
   description: Tags for this article.
 pages:
+- content/post/olympians/ares.md
 - content/post/olympians/apollo.md
 - content/post/olympians/aphrodite.md
