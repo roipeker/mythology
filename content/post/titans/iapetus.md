@@ -1,0 +1,19 @@
++++
+author = "Roi Peker"
+date = "2019-09-25T22:19:11+03:00"
+myths = ""
+series = "Titans"
+tag = []
+tags = []
+title = "Iapetus"
+
++++
+![Iapetus](https://www.greekmythology.com/images/mythology/iapetus_image_22.jpg)
+
+[**Iapetus**](https://www.greekmythology.com/Titans/Iapetus/iapetus.html "Iapetus") was a Titan, son of [**Uranus**](https://www.greekmythology.com/Other_Gods/Uranus/uranus.html "Uranus") and [**Gaea**](https://www.greekmythology.com/Other_Gods/Gaea/gaea.html "Gaea"), and father of [**Atlas**](https://www.greekmythology.com/Titans/Atlas/atlas.html "Atlas"), [**Prometheus**](https://www.greekmythology.com/Titans/Prometheus/prometheus.html "Prometheus"), [**Epimetheus**](https://www.greekmythology.com/Titans/Epimetheus/epimetheus.html "Epimetheus") and [**Menoetius**](https://www.greekmythology.com/Titans/Menoetius/menoetius.html "Menoetius"). His name derives from the Greek word meaning to pierce usually with a spear; therefore, [**Iapetus**](https://www.greekmythology.com/Titans/Iapetus/iapetus.html "Iapetus") may have been considered as the god of craftsmanship, although other sources site him as the god of mortality.
+
+[**Iapetus**](https://www.greekmythology.com/Titans/Iapetus/iapetus.html "Iapetus") was also considered the personification of one of the four pillars that hold the heavens and the earth apart, a role that he later bequeathed to his son, [**Atlas**](https://www.greekmythology.com/Titans/Atlas/atlas.html "Atlas"). He represented the pillar of the west, the other three being represented by his brothers [**Crius**](https://www.greekmythology.com/Titans/Crius/crius.html "Crius"), [**Coeus**](https://www.greekmythology.com/Titans/Coeus/coeus.html "Coeus") and [**Hyperion**](https://www.greekmythology.com/Titans/Hyperion/hyperion.html "Hyperion"). The four brothers actively played a role in the dethroning of their father [**Uranus**](https://www.greekmythology.com/Other_Gods/Uranus/uranus.html "Uranus"); as they were all in the four corners of the earth, they held [**Uranus**](https://www.greekmythology.com/Other_Gods/Uranus/uranus.html "Uranus") firmly in place while their brother [**Cronus**](https://www.greekmythology.com/Titans/Cronus/cronus.html "Cronus") castrated him with a sickle.
+
+[**Iapetus**](https://www.greekmythology.com/Titans/Iapetus/iapetus.html "Iapetus")' sons were thought to have been the ancestors of humans, and that they had some detrimental qualities that not only led to their own demise, but they also passed them down to humans. So, although [**Prometheus**](https://www.greekmythology.com/Titans/Prometheus/prometheus.html "Prometheus") was clever, he bequeathed scheming to mankind; [**Epimetheus**](https://www.greekmythology.com/Titans/Epimetheus/epimetheus.html "Epimetheus"), guileless as he was, passed down stupidity; [**Atlas**](https://www.greekmythology.com/Titans/Atlas/atlas.html "Atlas"), being powerful and patient, gave excessive daring; and finally, [**Menoetius**](https://www.greekmythology.com/Titans/Menoetius/menoetius.html "Menoetius"), an arrogant personality, bequeathed violence.
+
+See Also: [**Titans**](https://www.greekmythology.com/Titans/titans.html "Titans"), [**Uranus**](https://www.greekmythology.com/Other_Gods/Uranus/uranus.html "Uranus"), [**Gaea**](https://www.greekmythology.com/Other_Gods/Gaea/gaea.html "Gaea"), [**Prometheus**](https://www.greekmythology.com/Titans/Prometheus/prometheus.html "Prometheus"), [**Epimetheus**](https://www.greekmythology.com/Titans/Epimetheus/epimetheus.html "Epimetheus"), [**Menoetius**](https://www.greekmythology.com/Titans/Menoetius/menoetius.html "Menoetius"), [**Crius**](https://www.greekmythology.com/Titans/Crius/crius.html "Crius"), [**Coeus**](https://www.greekmythology.com/Titans/Coeus/coeus.html "Coeus"), [**Hyperion**](https://www.greekmythology.com/Titans/Hyperion/hyperion.html "Hyperion")
