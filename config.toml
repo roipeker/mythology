@@ -1,0 +1,29 @@
+baseURL = "https://roi-mythology.netlify.com"
+languageCode = "en-us"
+title = "Greek mythology"
+theme ="hugo-theme-basic"
+enableEmoji = true 
+copyright = "© 2019 <a href='https://greekmythology.com'>Greek Mythology</a>. Made by <a href='https://roipeker.com'>@roipeker</a>."
+description = "Reference site for greek mythology and a personal blog."
+
+[taxonomies]
+  category = "myths"
+  series = "series"
+  tag = "tags" 
+
+[[params.menu]]
+  name = "all"
+  url = "post/"
+
+[[params.menu]]
+  name = "series"
+  url = "series/"
+
+[[params.menu]]
+  name = "mitos"
+  url = "myths/"
+
+
+[[params.menu]]
+  name = "about"
+  url = "about/"
