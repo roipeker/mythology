@@ -27,7 +27,7 @@ fields:
   label: tags
 - name: series
   type: select
-  default: Titans
+  default: Other Gods
   config:
     required: true
     options:
