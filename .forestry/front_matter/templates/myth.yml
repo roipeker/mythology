@@ -53,6 +53,7 @@ fields:
     value: Olympians
   hidden: true
 pages:
+- content/post/olympians/hermes.md
 - content/post/olympians/hera.md
 - content/post/olympians/hephaestus.md
 - content/post/olympians/hades.md
