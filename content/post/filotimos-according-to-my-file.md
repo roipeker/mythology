@@ -5,7 +5,7 @@ myths = ""
 series = "Myths"
 tag = []
 tags = ["language", "Proverb", "Greek"]
-title = "Filotimo, according to my file"
+title = "Philotimo, according to my file Vassilis"
 
 +++
 According to my dear friend [Vassilis](mailto: vassiliskotaras@gmail.com " Assilis email"), CEO of [kithara.gr](Http://www.kithara.gr/ "Kithara website"), follow this if u wanna be a good person:
