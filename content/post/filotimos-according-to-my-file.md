@@ -1,7 +1,6 @@
 +++
 author = "Roi Peker"
 date = "2019-09-26T14:24:15+03:00"
-draft = true
 myths = ""
 series = "Myths"
 tag = []
