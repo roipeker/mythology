@@ -8,7 +8,9 @@ tags = ["language", "Proverb", "Greek"]
 title = "Filotimos, according to my file"
 
 +++
-Accord to my dear friend [Vassilis](mailto: vassiliskotaras@gmail.com " Assilis email"), CEO of [kithara.gr](Http://www.kithara.gr/ "Kithara website"), follow this if u wanna be a good person:
+According to my dear friend [Vassilis](mailto: vassiliskotaras@gmail.com " Assilis email"), CEO of [kithara.gr](Http://www.kithara.gr/ "Kithara website"), follow this if u wanna be a good person:
+
+![](/v1569497746/mitologia/53DCB32D-C982-457C-AEA5-A5FFD30023B5_dcuiyp.jpg "Practicing filotimos with son")
 
 ## φιλότιμο
 
